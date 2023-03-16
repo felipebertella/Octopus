@@ -1,0 +1,7 @@
+Octopus: Occupant-Centric Tool to Observe Practices of User and their Satisfaction
+
+This project was created by Mateus Bavaresco with the goal to monitor internal environment variables and understand user's practices.
+
+This part of the project was developed by Felipe Augusto Santos Bertella. It is responsible for the central module control, receiving data from
+sensors connected to the Raspberry Pi 3 B+ and storing it in a sqlite database.
+
